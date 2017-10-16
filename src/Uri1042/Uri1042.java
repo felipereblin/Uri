@@ -16,7 +16,6 @@ public class Uri1042 {
         ArraySort arraySort = new ArraySort();
         int[] sortNumbers, unsortNumbers;
         
-        //System.out.println("Digite três números em sequêcia (separados por espaço)");
         Scanner input = new Scanner(System.in);
         int i1 = input.nextInt();
         int i2 = input.nextInt();
