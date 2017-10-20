@@ -6,6 +6,7 @@
 package main;
 
 import Uri1042.Uri1042;
+import Uri1114.Uri1114;
 import Uri1142.Uri1142;
 import Uri1151.Uri1151;
 
@@ -28,6 +29,12 @@ public class Main {
                 break;
             case "1151":
                 Uri1151.run();
+                break;
+            case "1114":
+                Uri1114.run();
+                break;
+                
+                   
         }
         
         
