@@ -6,9 +6,14 @@
 package main;
 
 import Uri1042.Uri1042;
+import Uri1045.Uri1045;
 import Uri1114.Uri1114;
 import Uri1142.Uri1142;
 import Uri1151.Uri1151;
+import Uri1789.Uri1789;
+import Uri1960.Uri1960;
+import Uri2031.Uri2031;
+import Uri2167.Uri2167;
 
 /**
  *
@@ -33,6 +38,19 @@ public class Main {
             case "1114":
                 Uri1114.run();
                 break;
+            case "1045":
+                Uri1045.run();
+                break;
+            case "1789":
+                Uri1789.run();
+                break;
+            case "1960":
+                Uri1960.run();
+                break;
+            case "2031":
+                Uri2031.run();
+            case "2167":
+                Uri2167.run();
                 
                    
         }
