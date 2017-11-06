@@ -7,7 +7,7 @@ package Uri2167;
 
 /**
  *
- * @author alexe.freitag
+ * @author felipe.reblin
  */
 public class falhaDoMotor {
     public int falha(int[]rotacoesMinutos){

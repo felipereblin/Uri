@@ -7,7 +7,7 @@ package Uri2031;
 
 /**
  *
- * @author alex.freitag
+ * @author felipe.reblin
  */
 public class pedraPapelAtaque {
     public int verificarVencedor(String[] sinal) {
