@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
  *
  * @author felipe.reblin
  */
-public class Teste {
+public class DefinirTrianguloTest {
     
 
     @Test

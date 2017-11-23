@@ -10,15 +10,17 @@ package Uri1151;
  * @author felipe.reblin
  */
 public class Fibonacci {
-     public void gerarFibonacci(int numero){
+     public String gerarFibonacci(int numero){
+         String sequencia = null;
         int n1 = 1, n2 = 0;
-        System.out.print(n2 + " ");
-        System.out.print(n1 + " ");
+        sequencia =+ n2 + " ";
+        sequencia =+ n1 + " ";
         
             for(int j = 0; j < (numero-2); j++){
                 n1 = n1 + n2;
                 n2 = n1 - n2;
-                System.out.print(n1 + " ");
+                sequencia =+ n1 + " ";
             }
+            return sequencia;
     }
 }

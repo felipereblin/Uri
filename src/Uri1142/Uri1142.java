@@ -17,6 +17,6 @@ public class Uri1142 {
     
         Scanner input = new Scanner(System.in);
         int numero = input.nextInt();
-        pum.gerarSequencia(numero);
+        System.out.println(pum.gerarSequencia(numero));
     }    
 }

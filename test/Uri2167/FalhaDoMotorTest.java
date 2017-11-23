@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
  *
  * @author felipe.reblin
  */
-public class MainTest {
+public class FalhaDoMotorTest {
     
      /**
      * Test of main method, of class Main.

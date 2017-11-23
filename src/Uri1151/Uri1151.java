@@ -18,7 +18,7 @@ public class Uri1151 {
         Scanner input = new Scanner(System.in);
         int numero = input.nextInt();
         if(numero < 46 && numero > 0){
-            fibonacci.gerarFibonacci(numero);
+            System.out.println(fibonacci.gerarFibonacci(numero));
         }else{
             System.out.println("Número inválido (deve ser menor que 46)");
         }

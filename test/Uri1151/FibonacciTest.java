@@ -23,6 +23,9 @@ public class FibonacciTest {
     @Test
     public void testGerarFibonacci() {
         Fibonacci fibonacci = new Fibonacci();
+        String experado = "55 ";
+        String result = fibonacci.gerarFibonacci(11);
+        assertEquals(experado, result);
         
     }
     
